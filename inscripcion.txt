@@ -1,0 +1,6 @@
+ el/la estudiante se llama Sandra
+cedula 10357893
+se matriculo al codigo del curso 1
+al curso llamado node.js
+con valor de 30000
+con una duracion 32 horas

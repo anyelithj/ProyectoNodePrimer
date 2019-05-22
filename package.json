@@ -1,0 +1,14 @@
+{
+  "name": "proyecto",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anyelith anyelithjac@misena.edu.ci",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
